@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/introme/'
+    publicPath: '/lzffoo.github.io/'
 }
